@@ -10,3 +10,14 @@
 * **Personalisasi:**
     * **Quick Notes:** Catatan tersimpan otomatis di browser (Local Storage).
     * **Cover:** Ganti gambar sampul sesuai yang diignikan (disimpan per user).
+## Default Users
+
+Berikut adalah beberapa akun pengguna yang sudah tersedia di database untuk keperluan pengujian (*testing*):
+
+* **Akun 1**
+    * Username: `irfan`
+    * Password: `123`
+
+* **Akun 2**
+    * Username: `roy`
+    * Password: `123`
